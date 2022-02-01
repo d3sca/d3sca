@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+?style=plastic&logo=appveyor
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3sca&show_icons=true&theme=radical)
