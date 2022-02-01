@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I creat Cyber Security Automation tools, as well as security vulnerabilities exploits, I am passionate about Cyber Security I like learning and sharing my knowledge with others as public as possible.
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.3]][2].
