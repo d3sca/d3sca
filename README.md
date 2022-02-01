@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Vmware_Vcenter-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ESETEndpointSecurity-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-KasperskyEndpointSecurity-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-Cluster-informational?style=plastic&logo=appveyor&logoColor=green&color=2bbc8a)
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3sca&show_icons=true&theme=radical)
