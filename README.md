@@ -45,3 +45,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.3]][2].
 
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3sca&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3sca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
