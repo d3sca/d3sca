@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I creat Cyber Security Automation tools, as well as security vulnerabilities exploits, I am passionate about Cyber Security I like learning and sharing my knowledge with others as public as possible.
+I creat Cyber Security Automation tools, as well as security vulnerabilities exploits, I am passionate about Cyber Security I like learning and sharing my knowledge with others as public as possible find oneof my lectures https://bit.ly/3CGGT5S.
 
 <!-- Actual text -->
 
